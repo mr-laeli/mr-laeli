@@ -1,16 +1,24 @@
 ## Hi there 👋
+### little more about me...
 
-<!--
-**mr-laeli/mr-laeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const amirHosseyn_Laeli = {
+    nickName : "meysam" 😎 ,
+    pronouns: "He" | "Him" 🙎🏻‍♂️,     
+    aboutMe: "I'm junior backEnd developer" 🧑🏻‍💻, 
+    language: ["javaScript - Node.js"] ☘️,         
+    myStack: {             
+        backEnd: {             
+          frameworks: ["Express.js"] 🥇,                   
+          DataBases: ["MongoDB", "PostgreSQL"] 🌱,
+          architectures: ["MVC", "onion", "clean", "SOLID"] 🖱️,
+        },         
+        frontEnd: {             
+          web: [ Null ] 😶‍🌫️,         
+        },         
+        devOps: ["Docker 🐳"],               
+   },    
+   currentFocus: "NodeJS Web Development" 🚀,     
+   funFact: ["I hack NASA just for a cup of coffee😅"] ,
+};
+```
